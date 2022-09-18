@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Bruno Ferreira 👋
+### Hi, everyone! My name is Bruno Ferreira and I'm a front-end developer. 👋
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ferreira-3ab25ba7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/bruno-ferreira-3ab25ba7/)
@@ -6,11 +6,11 @@
 
 	
 
-## Meu Status do Github
+## My Github Status
 
 ![Bruno Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbrunoferreira&show_icons=true&theme=merko)
 
-## Tecnologias que eu utilizo no meu dia
+## Technologies that I use daily:
 
 <div style = "display: inline_block"><br/>
   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
